@@ -1,6 +1,6 @@
-# IRIS FLOWER CLASSIFICATION
+# IRIS-FLOWER-CLASSIFICATION
                                                                               
-This project aims to build a machine learning model that can classify the three species of Iris flowers based on their measurements. The three species are Setosa, Versicolor, and Virginica.
+This project aims to build a machine learning model that can classify the three species of Iris flowers based on their measurements. The three species are Setosa, Versicolor and Virginica.
 
 ![51518iris img1](https://user-images.githubusercontent.com/120399980/234676915-7184753a-10de-4922-8300-80f2433fb2a4.png)
 
@@ -18,7 +18,7 @@ Logistic Regression is used to find the relationship between dependent and indep
 # Model
 We will use a supervised learning algorithm to train the model. We will split the dataset into training and testing sets to evaluate the performance of the model. We will use the popular scikit-learn library to build the model. 
 
-We will use the following steps to build the model:                
+# We will use the following steps to build the model:                
 Load the dataset                            
 Preprocess the dataset                                  
 Split the dataset into training and testing sets                            
